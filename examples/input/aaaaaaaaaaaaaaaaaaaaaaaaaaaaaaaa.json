@@ -1,0 +1,11 @@
+{
+  "conversationId": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "messages": [
+    {
+      "serverId": "demo-1",
+      "content": "Synthetic example: review the project documentation.",
+      "createTime": 1700000000,
+      "type": "text"
+    }
+  ]
+}
